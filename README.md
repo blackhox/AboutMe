@@ -32,5 +32,5 @@ ___Contact:___
 [Project Explorer](https://app.nomic.io/#/staking)
 
 ___Participated in a large number of testnets:___
-Agoric,Clover,Frontier,Rune,Zeitgeist,Meson,Desmos,Solana,NYM,Massa,HUMAN,Stargaze,Ki Fundation,Omniflix,Rizon,Cheqd,GameHub(Nibiru),Umee,IDEP,Evmos,Comdex,FirmaChain,Near,Nomic,Provenance,Quicksilver,ChainFlip,StafiHub,Sei,Stride
+Agoric,Clover,Frontier,Rune,Zeitgeist,Meson,Desmos,Solana,NYM,Massa,HUMAN,Stargaze,Ki Fundation,Omniflix,Rizon,Cheqd,GameHub(Nibiru),Umee,IDEP,Evmos,Comdex,FirmaChain,Near,Nomic,Provenance,Quicksilver,ChainFlip,StafiHub,Sei,Stride,HAQQ,Source protocol
 
