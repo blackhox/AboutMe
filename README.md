@@ -9,7 +9,7 @@ ___Contact:___
 ***E-mail:*** y.veremeev@outlook.com
 
 
-***Diskord:*** Blackhox#4520
+***Discord:*** Blackhox#4520
 
 ### I validate in Mainnet of such projects:
 
