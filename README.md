@@ -4,7 +4,7 @@
 
 Individual Proof-of-Stake Validator Moniker: `Blackhox`
 
-### I validate in Main networks of such projects:
+### I validate in Mainnet of such projects:
 
 + Firmachain
 [Project Explorer](https://explorer.firmachain.dev/validators/firmavaloper1rtmcynl8e45huv94u02s5q9x3le28feqp9qvy7)
