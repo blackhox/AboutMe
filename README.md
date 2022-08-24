@@ -18,7 +18,11 @@ Individual Proof-of-Stake Validator Moniker: `Blackhox`
 + Cheqd
 [Project Explorer](https://explorer.firmachain.dev/validators/firmavaloper1rtmcynl8e45huv94u02s5q9x3le28feqp9qvy7)
 
++ Provenance
+[Project Explorer](https://www.mintscan.io/provenance/validators/pbvaloper1cfryzd7y0us6km8jct5zh20uc5uw05u8kx8seu)
 
++ Nomic
+[Project Explorer](https://app.nomic.io/#/staking)
 
 ___Participated in a large number of testnets:___
 Agoric,Clover,Frontier,Rune,Zeitgeist,Meson,Desmos,Solana,NYM,Massa,HUMAN,Stargaze,Ki Fundation,Omniflix,Rizon,Cheqd,GameHub(Nibiru),Umee,IDEP,Evmos,Comdex,FirmaChain,Near,Nomic,Provenance,Quicksilver,ChainFlip,StafiHub,Sei,Stride
