@@ -11,7 +11,7 @@ ___Contact:___
 
 ***Discord:*** Blackhox#4520
 
-### I validate in Mainnet of such projects:
+### I validate in Mainnet of such projects: :medal_sports:
 
 + Firmachain
 [Project Explorer](https://explorer.firmachain.dev/validators/firmavaloper1rtmcynl8e45huv94u02s5q9x3le28feqp9qvy7)
@@ -31,6 +31,6 @@ ___Contact:___
 + Nomic
 [Project Explorer](https://app.nomic.io/#/staking)
 
-:+1: ___Participated in a large number of testnets:___
+:trophy: ___Participated in a large number of testnets:___
 Agoric,Clover,Frontier,Rune,Zeitgeist,Meson,Desmos,Solana,NYM,Massa,HUMAN,Stargaze,Ki Fundation,Omniflix,Rizon,Cheqd,GameHub(Nibiru),Umee,IDEP,Evmos,Comdex,FirmaChain,Near,Nomic,Provenance,Quicksilver,ChainFlip,StafiHub,Sei,Stride,HAQQ,Source protocol
 
