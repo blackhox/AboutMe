@@ -23,13 +23,16 @@ ___Contact:___
 [Project Explorer](https://www.validators.app/validators/F74FFHVneUUkFp4GM8EvgzK8zbwCHPk9uUFdm3z99dA4?locale=en&network=mainnet)
 
 + Cheqd
-[Project Explorer](https://explorer.firmachain.dev/validators/firmavaloper1rtmcynl8e45huv94u02s5q9x3le28feqp9qvy7)
+[Project Explorer](https://explorer.cheqd.io/validators/cheqdvaloper16lffv8qn8v6ur6snldf76xhqu9sel29j44ts69)
 
 + Provenance
 [Project Explorer](https://www.mintscan.io/provenance/validators/pbvaloper1cfryzd7y0us6km8jct5zh20uc5uw05u8kx8seu)
 
 + Nomic
 [Project Explorer](https://app.nomic.io/#/staking)
+
++ Jackal
+[Project Explorer](https://explorer.blackhox.tech/jackal-1/staking/jklvaloper1qs7gudtx6sad2uwdd2wrxw8ecljgm9yhue43wk)
 
 :trophy: ___Participated in a large number of testnets:___
 Agoric,Clover,Frontier,Rune,Zeitgeist,Meson,Desmos,Solana,NYM,Massa,HUMAN,Stargaze,Ki Fundation,Omniflix,Rizon,Cheqd,GameHub(Nibiru),Umee,IDEP,Evmos,Comdex,FirmaChain,Near,Nomic,Provenance,Quicksilver,ChainFlip,StafiHub,Sei,Stride,HAQQ,Source protocol
