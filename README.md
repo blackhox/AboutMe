@@ -32,7 +32,14 @@ ___Contact:___
 [Project Explorer](https://app.nomic.io/#/staking)
 
 + Jackal
-[Project Explorer](https://explorer.blackhox.tech/jackal-1/staking/jklvaloper1qs7gudtx6sad2uwdd2wrxw8ecljgm9yhue43wk)
+[Project Explorer](https://explorer.stavr.tech/jackal/staking/jklvaloper1qs7gudtx6sad2uwdd2wrxw8ecljgm9yhue43wk)
+
++ HAQQ
+[Project Explorer](https://haqq.explorers.guru/validator/haqqvaloper1jt70r5w5q56fers0a4z2x95l92v360pw8mg5th)
+
++ Terp network
+[Project Explorer](https://explorer.nodestake.top/terp/staking/terpvaloper1g80p4suzrz4vqsvs3za0yqhqcphlvnjy7snfnw)
+
 
 :trophy: ___Participated in a large number of testnets:___
 Agoric,Clover,Frontier,Rune,Zeitgeist,Meson,Desmos,Solana,NYM,Massa,HUMAN,Stargaze,Ki Fundation,Omniflix,Rizon,Cheqd,GameHub(Nibiru),Umee,IDEP,Evmos,Comdex,FirmaChain,Near,Nomic,Provenance,Quicksilver,ChainFlip,StafiHub,Sei,Stride,HAQQ,Source protocol
