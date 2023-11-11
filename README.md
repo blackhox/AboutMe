@@ -9,7 +9,7 @@ ___Contact:___
 ***E-mail:*** y.veremeev@outlook.com
 
 
-***Discord:*** Blackhox#4520
+***Discord:*** Blackhox (old Blackhox#4520)
 
 ### I validate in Mainnet of such projects: :medal_sports:
 
@@ -43,4 +43,5 @@ ___Contact:___
 
 :trophy: ___Participated in a large number of testnets:___
 Agoric,Clover,Frontier,Rune,Zeitgeist,Meson,Desmos,Solana,NYM,Massa,HUMAN,Stargaze,Ki Fundation,Omniflix,Rizon,Cheqd,GameHub(Nibiru),Umee,IDEP,Evmos,Comdex,FirmaChain,Near,Nomic,Provenance,Quicksilver,ChainFlip,StafiHub,Sei,Stride,HAQQ,Source protocol,LAVA,Cascadia,Andromeda,Jackal,Mande-chain,SGE,Composable,Nibiru,Noria,Bonus Block.
-
+### Setting up IBC relays:
+Projects and statistics can be viewed here: https://relayers.smartstake.io/relayer/0838B241C7833A81
