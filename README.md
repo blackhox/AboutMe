@@ -40,6 +40,8 @@ ___Contact:___
 + Terp network
 [Project Explorer](https://explorer.nodestake.top/terp/staking/terpvaloper1g80p4suzrz4vqsvs3za0yqhqcphlvnjy7snfnw)
 
++ Source protocol
+[Project Explorer](https://explorer.stavr.tech/Source-Mainnet/staking/sourcevaloper14fgdng78d40dnfxa7lnpnuk0wvx85lqz3r504y)
 
 :trophy: ___Participated in a large number of testnets:___
 Agoric,Clover,Frontier,Rune,Zeitgeist,Meson,Desmos,Solana,NYM,Massa,HUMAN,Stargaze,Ki Fundation,Omniflix,Rizon,Cheqd,GameHub(Nibiru),Umee,IDEP,Evmos,Comdex,FirmaChain,Near,Nomic,Provenance,Quicksilver,ChainFlip,StafiHub,Sei,Stride,HAQQ,Source protocol,LAVA,Cascadia,Andromeda,Jackal,Mande-chain,SGE,Composable,Nibiru,Noria,Bonus Block.
