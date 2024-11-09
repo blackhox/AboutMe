@@ -19,8 +19,8 @@ ___Contact:___
 + Stargaze
 [Project Explorer](https://www.mintscan.io/stargaze/validators/starsvaloper1dkuvgapkjf6lmdnh9jm4hy6zm85kvrqsefthy4)
 
-+ Solana
-[Project Explorer](https://www.validators.app/validators/F74FFHVneUUkFp4GM8EvgzK8zbwCHPk9uUFdm3z99dA4?locale=en&network=mainnet)
++ Coreum
+[Project Explorer](https://www.mintscan.io/coreum/validators/corevaloper13ay609f2cnhg2nzkscjuq42hppm553ggevlmq4)
 
 + Cheqd
 [Project Explorer](https://explorer.cheqd.io/validators/cheqdvaloper16lffv8qn8v6ur6snldf76xhqu9sel29j44ts69)
