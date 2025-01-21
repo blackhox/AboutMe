@@ -26,7 +26,7 @@ ___Contact:___
 [Project Explorer](https://explorer.cheqd.io/validators/cheqdvaloper16lffv8qn8v6ur6snldf76xhqu9sel29j44ts69)
 
 + Provenance
-[Project Explorer](https://www.mintscan.io/provenance/validators/pbvaloper1cfryzd7y0us6km8jct5zh20uc5uw05u8kx8seu)
+[Project Explorer](https://explorer.stavr.tech/Provenance/staking/pbvaloper1cfryzd7y0us6km8jct5zh20uc5uw05u8kx8seu)
 
 + Nomic
 [Project Explorer](https://app.nomic.io/#/staking)
