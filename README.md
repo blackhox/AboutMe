@@ -9,7 +9,7 @@ ___Contact:___
 ***E-mail:*** y.veremeev@outlook.com
 
 
-***Discord:*** Blackhox (old Blackhox#4520)
+***Discord:*** Blackhox# | old Blackhox#4520 (ID: 811183551319113748)
 
 ### I validate in Mainnet of such projects: :medal_sports:
 
