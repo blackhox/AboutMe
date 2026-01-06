@@ -1,5 +1,5 @@
-:mage_man: ***My name is Eugene, I am an individual validator from Ukraine. I have extensive experience as a system administrator and 5+ years of working with nodes in the Cosmos and Polkadot networks.***
-***Crypto enthusiast,individual PoS validator.***
+:mage_man: ***My name is Blackhox, We are a small team of validators and crypto enthusiasts from Ukraine. We have over 5 years of experience validating nodes in the Cosmos and Polkadot networks and bring deep expertise in the IT industry.
+***Crypto enthusiast, PoS validator.***
 
 
 Individual Proof-of-Stake Validator Moniker: `Blackhox`
