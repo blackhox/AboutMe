@@ -1,4 +1,5 @@
 :mage_man: ***My name is Blackhox, We are a small team of validators and crypto enthusiasts from Ukraine. We have over 5 years of experience validating nodes in the Cosmos and Polkadot networks and bring deep expertise in the IT industry.
+
 ***Crypto enthusiast, PoS validator.***
 
 
